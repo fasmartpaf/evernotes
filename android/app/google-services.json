@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "873887974494",
+    "project_id": "evernotes-794a1",
+    "storage_bucket": "evernotes-794a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873887974494:android:1b470c32a74b332aa3e0cf",
+        "android_client_info": {
+          "package_name": "com.example.evernotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873887974494-9djtjqrbmsblh79kogfue060hlmho1mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evernotes",
+            "certificate_hash": "ca4658d5da3fda5ba261fb64b7fd6a902974652e"
+          }
+        },
+        {
+          "client_id": "873887974494-tirl1rngsjoin4ojo0gr9bhod670mrfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwQr4gYU5uIE2tPEQcp5TSNE1Eac2MIOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873887974494-tirl1rngsjoin4ojo0gr9bhod670mrfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
